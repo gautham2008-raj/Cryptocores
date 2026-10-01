@@ -1,0 +1,6 @@
+{
+  "name": "CryptoCore - Cryptocurrency Education & Live Market Analysis",
+  "description": "A premium fintech cryptocurrency platform for education, real-time INR market analysis, interactive technical charts, historical milestones, and an AI crypto assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
